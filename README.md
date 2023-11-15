@@ -16,7 +16,8 @@ reclat: Latitude coordinate of the landing location.
 reclong: Longitude coordinate of the landing location.
 GeoLocation: Location description.
 
-Key Findings
+Key Findings:
+
 Geographic Distribution: Explore the interactive visualizations to gain insights into the global distribution of meteorite landings.
 
 Meteorite Characteristics: Analyze meteorite masses
